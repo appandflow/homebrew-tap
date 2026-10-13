@@ -1,6 +1,6 @@
 cask "stim" do
-  version "0.1.26"
-  sha256 "77db8a7179e4747ab243daf8d168dadabd438239fa9440c52221c19fc96b83dd"
+  version "0.1.27"
+  sha256 "3532f2ef51e65f8ccd16b29dc813a35f693847ed4607b1330791521ce05c4ad0"
 
   url "https://github.com/appandflow/stim/releases/download/desktop-v#{version}/Stim-#{version}.dmg"
   name "Stim"
